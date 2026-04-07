@@ -1,5 +1,7 @@
 # Fête de l'école Schnapper 19/06/2026
 
+[Instructions](https://docs.numerique.gouv.fr/docs/9ee89521-4b4e-4f2f-8c38-e052e48b09f0/)
+
 ## En amont
 * Inscriptions aux tâches 
 * Démarchages pour les lots de tombola
