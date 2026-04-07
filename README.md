@@ -1,7 +1,7 @@
 # Fête de l'école Schnapper 19/06/2026
 
 ## En amont
-- [ ] Inscriptions aux tâches 
+- [x] Inscriptions aux tâches 
 - [ ] Démarchages pour les lots de tombola
 - [ ] Inscription aux stands nourriture
 - [ ] Inscription aux stands jeux, 
