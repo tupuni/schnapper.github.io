@@ -1,6 +1,6 @@
 # Fête de l'école Schnapper 19/06/2026
 
-[Instructions](instructions.md)
+[instructions](instructions.md)
 
 ## En amont
 * Inscriptions aux tâches 
