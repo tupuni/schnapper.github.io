@@ -2,14 +2,14 @@
 
 ## En amont
 - [ ] Inscriptions aux tâches 
-[] Démarchages pour les lots de tombola
-[] Inscription aux stands nourriture
-[] Inscription aux stands jeux, 
-[] Préparation de plats.
+- [ ] Démarchages pour les lots de tombola
+- [ ] Inscription aux stands nourriture
+- [ ] Inscription aux stands jeux, 
+- [ ] Préparation de plats.
 
 ## Juste avant
-[] Pré-vente des tickets de tombola
-[] Achats et fournitures
+- [ ] Pré-vente des tickets de tombola
+- [ ] Achats et fournitures
 
 ## Le soir même
 * Prenez parmi les parents qui sont venus aider qui ne savent quoi faire (ils vont avoir l'air perdus, faciles à reconnaître;) pour installer le stand
