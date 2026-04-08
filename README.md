@@ -7,13 +7,12 @@
 * [Les fournitures nécessaires: qui ramène quoi? (lecture seule)](https://grist.numerique.gouv.fr/o/docs/mqPjqTjpxZBX/Fournitures?utm_id=share-doc)
 * [Les achats (lecture seule)](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
 * [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
-* Inscription aux stands nourriture
-* Inscription aux stands jeux
-* Préparation de plats
+* [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
+* [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
+* [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) MERCI DE PRECISER LE CONTENU DES PLATS (gluten, porc, etc.)
 
 ## Juste avant
 * Pré-vente des tickets de tombola
-* Achats et fournitures
 
 ## Le soir même
 * Installer les stands avec les parents venus aider
