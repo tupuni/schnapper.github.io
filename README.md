@@ -1,6 +1,6 @@
 # Fête de l'école Schnapper 19/06/2026
 
-*Code couleurs: <span style="color: green">vert = OK</span>, <span style="color: yellow">jaune = en cours</span>, <span style="color: red">rouge = à faire/pourvoir</span>*\
+*Code couleur: <span style="color: green">vert = OK</span>, <span style="color: yellow">jaune = en cours</span>, <span style="color: red">rouge = à faire/pourvoir</span>*\
 ***Merci de ne pas éditer la structure des tables***
    
 ## En amont
