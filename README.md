@@ -7,7 +7,7 @@
 * [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
 * [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
 * [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
-* [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) MERCI DE PRECISER LE CONTENU DES PLATS (gluten, type de viande, etc.)
+* [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) **Merci de préciser le contenu des plats (gluten, type de viande, etc.)**
 
 ## Juste avant
 * [Pré-vente des tickets de tombola du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
