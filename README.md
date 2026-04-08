@@ -12,7 +12,7 @@
 * [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) MERCI DE PRECISER LE CONTENU DES PLATS (gluten, type de viande, etc.)
 
 ## Juste avant
-* Pré-vente des tickets de tombola
+* [Pré-vente des tickets de tombola du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
 
 ## Le soir même
 * Installer les stands avec les parents venus aider
