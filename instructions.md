@@ -1,11 +1,5 @@
 *Le/la responsable n'est pas tenu-e de rester au stand toute la soirée, seulement au début pour le démarrage, et si possible de temps en temps.*
 
-**Avant le jour J**
-
-* Essayer de faire une "guide de stand".
-
-* prévoir ciseaux, scotch, couteaux, etc
-
 **Pour l'installation d'un stand le jour J**
 
 * Prenez parmi les parents qui sont venus aider qui ne savent quoi faire (ils vont avoir l'air perdus, faciles à reconnaître;) pour installer le stand
