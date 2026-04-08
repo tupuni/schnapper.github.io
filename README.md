@@ -1,6 +1,6 @@
 # Fête de l'école Schnapper 19/06/2026
 
-*Nous contacter pour ajouter vos noms ou obtenir les droits d'édition sur les documents en lecture seule*
+*Me contacter (Aymeric) sur whatsapp pour ajouter vos noms ou obtenir les droits d'édition sur les documents en lecture seule*
 
 ## En amont
 * [Inscriptions aux tâches](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc)
