@@ -1,7 +1,5 @@
 # Fête de l'école Schnapper 19/06/2026
 
-[instructions](instructions.md)
-
 ## En amont
 * [Inscriptions aux tâches](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc)
 * Démarchages pour les lots de tombola
