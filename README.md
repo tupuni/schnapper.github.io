@@ -3,10 +3,11 @@
 ## En amont
 * [Inscriptions aux tâches](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc)
 * [Les fournitures nécessaires: qui ramène quoi?](https://grist.numerique.gouv.fr/o/docs/mqPjqTjpxZBX/Fournitures?utm_id=share-doc)
+* [Les achats](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
 * Démarchages pour les lots de tombola
 * Inscription aux stands nourriture
-* Inscription aux stands jeux, 
-* Préparation de plats.
+* Inscription aux stands jeux
+* Préparation de plats
 
 ## Juste avant
 * Pré-vente des tickets de tombola
