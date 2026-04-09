@@ -1,6 +1,6 @@
 # Fête de l'école Schnapper 19/06/2026
 
-Code couleur (semi-automatique)\
+Code couleur dans les tables (semi-automatique)\
 <span style="color: green">vert = OK</span>\
 <span style="color: gold">jaune = en cours</span>\
 <span style="color: red">rouge = à faire/pourvoir</span>
