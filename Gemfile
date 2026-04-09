@@ -1,14 +1,11 @@
 # frozen_string_literal: true
 
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
+gem "jekyll"
 
-group :development do
-  gem 'rake', '~> 13.0'
-  gem 'rspec', '~> 3.13'
-end
 group :jekyll_plugins do
-  gem 'github-pages'
-  gem 'jekyll-gfm-admonitions', path: '.'
+  gem "jekyll-gfm-admonitions"
+  gem "jekyll-optional-front-matter"
+  gem "github-pages"
 end
