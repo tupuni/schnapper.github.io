@@ -5,7 +5,7 @@ Code couleur (semi-automatique): <span style="color: green">vert = OK</span>, <s
 > **!** 
 > Attention à ne pas éditer la structure des tables
    
-## 1- En amont
+## En amont
 > ### [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
 > Ajouter son nom dans la colonne 'Responsables'. Eventuellement de nouvelles lignes pour d'autres items.
 
@@ -27,11 +27,11 @@ Code couleur (semi-automatique): <span style="color: green">vert = OK</span>, <s
 > ### [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans la première colonne, le nombre de crepes et de boissons, et la composition des plats salés et sucrés (merci de préciser la présence de contenu type gluten, viande, etc.)
 
-## 2- Deux semaines avant
+## Deux semaines avant
 > ### [Pré-vente des tickets de tombola du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
-## 3- Le soir même
+## Le soir même
 * Installer les stands avec les parents venus aider
 * Mettre et fixer une nappe (grand rouleau collectif)
 * Installer affiche avec les tarifs
