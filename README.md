@@ -6,7 +6,7 @@
 > [!WARNING] 
 > Merci de ne pas éditer la structure des tables
    
-## En amont
+## 1- En amont
 ### [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
 > [!NOTE]
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans la colonne 'Responsables'. Eventuellement de nouvelles lignes pour d'autres items.
@@ -25,20 +25,22 @@
 
 ### [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
 > [!NOTE]
-> 
+> Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
 ### [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
 > [!NOTE]
-> 
+> Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
 ### [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
 > [!NOTE]
-> 
+> Merci de ne pas éditer la structure de la table. Ajouter son nom dans la première colonne, le nombre de crepes et de boissons, et la composition des plats salés et sucrés (merci de préciser la présence de contenu type gluten, viande, etc.)
 
-## Juste avant
-* [Pré-vente des tickets de tombola du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
+## 2- Deux semaines avant
+### [Pré-vente des tickets de tombola du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
+> [!NOTE]
+> Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
-## Le soir même
+## 3- Le soir même
 * Installer les stands avec les parents venus aider
 * Mettre et fixer une nappe (grand rouleau collectif)
 * Installer affiche avec les tarifs
