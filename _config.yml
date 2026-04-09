@@ -1,22 +1,23 @@
-remote_theme: coursweb/jk-theme
+title: GitHub Flavored Admonitions
+repository: helveg/jekyll-gfm-admonitions
+description: >-
+  Add GitHub Flavored Admonitions to your Jekyll or GitHub Pages project!
 
-title: Titre exemple
+markdown: GFM
+plugins:
+  - jekyll-gfm-admonitions
 
-description: Description de cet exemple
-
-lang: fr-FR
-
-robots: noindex, nofollow
-
-# menu 
-chapters:
- - title: Cours-Web
-   url: https://cours-web.ch/
- - title: MDN
-   url: https://developer.mozilla.org/fr/
-
-# pied de page   
-footer_col_1: <ul class="contact-list">
-  <li>Eracom, Lausanne</li>
-  <li>2022</li></ul>
-footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/">Lien Github</a></li></ul>
+include:
+  - README.md
+exclude:
+  - sample/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
