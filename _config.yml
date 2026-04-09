@@ -1,23 +1,18 @@
 title: 
-repository: helveg/jekyll-gfm-admonitions
-description: >-
-  Add GitHub Flavored Admonitions to your Jekyll or GitHub Pages project!
+description: 
+
+repository: tupuni/schnapper.github.io
 
 markdown: GFM
+
 plugins:
   - jekyll-gfm-admonitions
+  - jekyll-optional-front-matter
 
-include:
-  - README.md
 exclude:
-  - sample/
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - vendor/
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
