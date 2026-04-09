@@ -32,9 +32,11 @@ Code couleur (semi-automatique): <span style="color: green">vert = OK</span>, <s
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
 ## Le soir même
+* Descendre les jeux stockés au 3ème étage
 * Installer les stands avec les parents venus aider
-* Mettre et fixer une nappe (grand rouleau collectif)
-* Installer affiche avec les tarifs
+* Fixer les nappes sur les tables (grand rouleau collectif)
+* Installer l'affiche avec les tarifs
+* Installer les barbecue
 * Caisses pour ranger les tickets (à garder proches des responsables du stand)
 * Pendant la soirée penser à emmener les tickets des caisses pour réalimenter la vente
 
