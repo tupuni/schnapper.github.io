@@ -1,8 +1,10 @@
 # Fête de l'école Schnapper 19/06/2026
 
+[!TIP]
 *Code couleur: <span style="color: green">vert = OK</span>, <span style="color: gold">jaune = en cours</span>, <span style="color: red">rouge = à faire/pourvoir</span>*\
 
-[!CAUTION] ***Merci de ne pas éditer la structure des tables***
+[!WARNING] 
+***Merci de ne pas éditer la structure des tables***
    
 ## En amont
 * [Inscriptions aux tâches](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc)
