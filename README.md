@@ -1,7 +1,7 @@
 # Fête de l'école Schnapper 2026
 `La fête de l'école aura lieu le 19 Juin 2026 de 18h15 à 20h30.`
 
-`! Attention à ne pas éditer la structure des tables !`\
+`! Attention à ne pas éditer la structure des tables !`
 
 `Code couleur dans les tables (semi-automatique)`\
 <span style="color: green">`vert = OK`</span>\
