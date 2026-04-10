@@ -12,14 +12,14 @@
 > ### [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
 > Ajouter son nom dans la colonne 'Responsables'. Eventuellement de nouvelles lignes pour d'autres items.
 
+> ### [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
+> Merci de ne pas éditer la structure de la table. Ajouter son nom dans la colonne 'Responsables'. Eventuellement de nouvelles lignes pour d'autres items.
+
 > ### [Les fournitures nécessaires: qui ramène quoi? ](https://grist.numerique.gouv.fr/o/docs/mqPjqTjpxZBX/Fournitures?utm_id=share-doc)
 > Ajouter son nom dans l'en-tête d'une colonne vide. Eventuellement de nouvelles lignes pour d'autres items.
 
 > ### [Les achats](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
 > Quantités à vérifier et rachat possible de stocks à l'école maternelle.
-
-> ### [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
-> Merci de ne pas éditer la structure de la table. Ajouter son nom dans la colonne 'Responsables'. Eventuellement de nouvelles lignes pour d'autres items.
 
 > ### [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
