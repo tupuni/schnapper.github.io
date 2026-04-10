@@ -1,12 +1,12 @@
-# Fête de l'école Schnapper 19/06/2026
+# Fête de l'école Schnapper 2026
+`La fête de l'école aura lieu le 19 Juin 2026 de 18h15 à 20h30.`
 
-Code couleur dans les tables (semi-automatique)\
-<span style="color: green">vert = OK</span>\
-<span style="color: gold">jaune = en cours</span>\
-<span style="color: red">rouge = à faire/pourvoir</span>
+`! Attention à ne pas éditer la structure des tables !`\
 
-> **!** 
-> Attention à ne pas éditer la structure des tables
+`Code couleur dans les tables (semi-automatique)`\
+<span style="color: green">`vert = OK`</span>\
+<span style="color: gold">`jaune = en cours`</span>\
+<span style="color: red">`rouge = à faire/pourvoir`</span>
    
 ## En amont
 > ### [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
