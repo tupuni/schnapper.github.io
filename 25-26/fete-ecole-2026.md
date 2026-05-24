@@ -42,5 +42,3 @@
 * Installer les barbecue
 * Caisses pour ranger les tickets (à garder proches des responsables du stand)
 * Pendant la soirée penser à emmener les tickets des caisses pour réalimenter la vente
-
-![image](logo2026.png)
