@@ -14,8 +14,6 @@ Ce site contient des documents utiles pour les représentants des parents d'él�
 
 ## Contact
 schnapper.parents.eleves@gmail.com  
-
-## Site web de l'école: 
-https://schnapper78.toutemonecole.com/  
+Site web de l'école: https://schnapper78.toutemonecole.com/  
 
 ![image](logo2026.png)
