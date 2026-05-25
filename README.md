@@ -11,7 +11,7 @@ Ce site contient des documents utiles pour les représentants des parents d'él�
 - [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
 - [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
 - [Les fournitures nécessaires: qui ramène quoi? ](https://grist.numerique.gouv.fr/o/docs/mqPjqTjpxZBX/Fournitures?utm_id=share-doc)
-- [Les achats](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
+- [Liste de courses](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
 - [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
 - [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
 - [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
