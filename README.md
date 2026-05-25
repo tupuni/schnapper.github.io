@@ -1,7 +1,8 @@
 #  Espace des parents d'élèves de l'école élémentaire Schnapper
 <base target="_blank">
 
-Ce site contient des documents utiles pour les représentants des parents d'élèves de l'école élémentaire Schnapper, 26 rue Schnapper 78100 Saint-Germain-en-Laye
+Ce site contient des documents utiles pour les représentants des parents d'élèves de l'école élémentaire Schnapper\
+26 rue Schnapper 78100 Saint-Germain-en-Laye
 
 ## 2025-2026
 - [Fête de l'école Schnapper 19 Juin 2026](25-26/fete-ecole-2026.md)
