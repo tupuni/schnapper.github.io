@@ -4,6 +4,9 @@
 Ce site contient des documents utiles pour les représentants des parents d'élèves de l'école élémentaire Schnapper\
 26 rue Schnapper 78100 Saint-Germain-en-Laye
 
+## Bloc note temporaire de discussion 
+- [Bloc-note Mai-Juin 2026](https://semestriel.framapad.org/p/0g9atg6r7j-alex?lang=fr)
+
 ## Fête de l'école 2026
 - [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
 - [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
