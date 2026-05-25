@@ -18,7 +18,7 @@
 > ### [Les fournitures nécessaires: qui ramène quoi? ](https://grist.numerique.gouv.fr/o/docs/mqPjqTjpxZBX/Fournitures?utm_id=share-doc)
 > Ajouter son nom dans l'en-tête d'une colonne vide. Eventuellement de nouvelles lignes pour d'autres items.
 
-> ### [Les achats](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
+> ### [Liste de courses](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
 > Quantités à vérifier et rachat possible de stocks à l'école maternelle.
 
 > ### [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
