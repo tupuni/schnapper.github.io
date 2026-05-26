@@ -20,6 +20,8 @@ Ce site contient des documents utiles pour les représentants des parents d'él�
 ## 2025-2026
 - [Fête de l'école Schnapper 19 Juin 2026](25-26/fete-ecole-2026.md)
 - [Notes de la réunion du 23 Mai 2026](https://semestriel.framapad.org/p/0g9atg6r7j-alex?lang=fr)
+- [Procès-verbal de la réunion du Conseil d’école n° 1 du 04/11/2025](25-26/PV-conseil-d-ecole041125.pdf)
+- [Procès-verbal de la réunion du Conseil d’école n° 2 du 10/03/2026]((25-26/PV-conseil-d-ecole100326.pdf)
 - [Planning bibliothèque 2025-2026](25-26/planning-bibliotheque-2025-2026.pdf)
 - [Profession de foi 2025-2026](25-26/Profession-de-foi-2025-2026.pdf)
 - [Liste des parents élus](25-26/liste-2025.pdf)
