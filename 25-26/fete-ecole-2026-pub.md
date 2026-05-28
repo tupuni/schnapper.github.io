@@ -16,4 +16,4 @@ le tableau dédié.
 > ### [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
 > Merci de préciser la présence de contenu type gluten, viande, etc.
 
-![image](logo2026.png)
+![image](~/logo2026.png)
