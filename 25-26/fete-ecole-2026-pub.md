@@ -8,11 +8,11 @@ Afin de s'organiser au mieux nous vous demandons de bien vouloir vous inscrire
 à un ou plusieurs créneaux de 30 minutes en entrant votre nom et numéro de téléphone 
 dans le tableau ci-dessous.\
 Merci également d'indiquer le contenu de vos préparations salées et sucrées dans
-le tableau dédié.\
+le tableau dédié.
 
 > ### [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
 > Attention à ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
 > ### [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
-> Merci de ne pas éditer la structure de la table. Ajouter son nom dans la première colonne, le nombre de crepes et de boissons, et la composition des plats salés et sucrés (merci de préciser la présence de contenu type gluten, viande, etc.)
+> Merci de préciser la présence de contenu type gluten, viande, etc.
 
