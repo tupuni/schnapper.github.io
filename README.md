@@ -15,7 +15,8 @@ Ce site contient des documents utiles pour les représentants des parents d'él�
 - [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
 - [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
 - [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
-- [Pré-vente des tickets de tombola du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
+- [Pré-vente des tickets, du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
+- [Lien public](fete-ecole-2026-pub.md) 
 
 ## 2025-2026
 - [Fête de l'école Schnapper 19 Juin 2026](25-26/fete-ecole-2026.md)
