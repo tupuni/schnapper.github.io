@@ -15,7 +15,7 @@ Merci également d’indiquer vos préparations salées et sucrées.
 > ### [Récolte de lots pour la tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans la colonne 'Responsables'. Eventuellement de nouvelles lignes pour d'autres items.
 
-> ### [Inscription aux stands](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
+> ### [Inscription aux stands](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/stands-parents-public)
 > Attention à ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
 > ### [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 

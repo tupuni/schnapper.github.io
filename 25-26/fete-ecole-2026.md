@@ -21,10 +21,10 @@
 > ### [Liste de courses](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
 > Quantités à vérifier et rachat possible de stocks à l'école maternelle.
 
-> ### [Inscription aux stands de vente](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
+> ### [Inscription aux stands pour parents élus (accès restreint)](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
-> ### [Inscription aux stands de jeux](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
+> ### [Inscription aux stands pour parents d'élèves (accès public)](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/stands-parents-public)
 > Merci de ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
 
 > ### [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
