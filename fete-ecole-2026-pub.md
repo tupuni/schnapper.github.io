@@ -5,8 +5,11 @@ Bonjour à toutes et à tous,
 La fête de l’école aura lieu le 19 Juin 2026 de 18h15 à 20h30.
 
 Comme chaque année de nombreuses activités sont prévues à cette occasion, 
-avec notamment plusieurs stands de jeux pour les enfants. Vous pouvez vous inscrire pour en assurer le bon déroulement sur des créneaux de 
-30 minutes en entrant votre nom et numéro de téléphone dans le tableau dédié.
+avec notamment plusieurs stands de jeux pour les enfants et de nourriture et de 
+boissons pour tous.  
+Merci de vous inscrire sur des créneaux de 30 minutes en entrant votre nom et 
+numéro de téléphone dans le tableau dédié afin d'assurer le bon déroulement de 
+la fête.
 
 Merci également d’indiquer vos préparations salées et sucrées.
 
