@@ -22,7 +22,7 @@ Merci également d’indiquer vos préparations salées et sucrées.
 
 > ### [Inscription aux stands](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/stands-parents-public)
 > Attention à ne pas éditer la structure de la table. Ajouter son nom dans l'une des case vides pour le créneau concerné.
-> **Merci de vous inscrire sur plusieurs créneaux**
+> **Merci de vous inscrire sur plusieurs créneaux.**
 
 
 ![image](logo2026.png)
