@@ -4,25 +4,17 @@
 Ce site contient des documents utiles pour les représentants des parents d'élèves de l'école élémentaire Schnapper\
 26 rue Schnapper 78100 Saint-Germain-en-Laye
 
-## Bloc note temporaire de discussion 
-- [Bloc-note Mai-Juin 2026](https://semestriel.framapad.org/p/0g9atg6r7j-alex?lang=fr)
 
-## Fête de l'école 2026
-- [Inscriptions aux tâches générales](https://grist.numerique.gouv.fr/o/docs/tnrXjRDmUKwz/Taches-responsables?utm_id=share-doc) 
-- [Démarchages pour les lots de tombola](https://grist.numerique.gouv.fr/o/docs/xcdy3yZshx6T/Lots-tombola?utm_id=share-doc)
-- [Les fournitures nécessaires: qui ramène quoi? ](https://grist.numerique.gouv.fr/o/docs/mqPjqTjpxZBX/Fournitures?utm_id=share-doc)
-- [Liste de courses](https://grist.numerique.gouv.fr/o/docs/3w6ygxPKHdsG/Achats?utm_id=share-doc)
-- [Inscription aux stands pour parents élus (accès restreint)](https://grist.numerique.gouv.fr/o/docs/fu5PZ9H4QtBv/Stands-vente?utm_id=share-doc)
-- [Inscription aux stands pour parents d'élèves (accès public)](https://grist.numerique.gouv.fr/o/docs/37CjJZurqZiK/Stands-jeux?utm_id=share-doc)
-- [Préparation de plats](https://grist.numerique.gouv.fr/o/docs/2ZAFfu4uHQHx/Plats-parents?utm_id=share-doc) 
-- [Pré-vente des tickets, du 8/6 au 19/6](https://grist.numerique.gouv.fr/o/docs/jcubQpviKhF8/Pre-ventes?utm_id=share-doc)
-- [Lien public](fete-ecole-2026-pub.md) 
+## 2026-2027
+A bientôt pour la rentrée de Septembre!
+
 
 ## 2025-2026
+- [Procès-verbal de la réunion du Conseil d’école n° 3 du 16/06/2026](25-26/PV-conseil-ecole-3.pdf)
 - [Fête de l'école Schnapper 19 Juin 2026](25-26/fete-ecole-2026.md)
 - [Notes de la réunion du 23 Mai 2026](https://semestriel.framapad.org/p/0g9atg6r7j-alex?lang=fr)
-- [Procès-verbal de la réunion du Conseil d’école n° 1 du 04/11/2025](25-26/PV-conseil-d-ecole041125.pdf)
-- [Procès-verbal de la réunion du Conseil d’école n° 2 du 10/03/2026](25-26/PV-conseil-d-ecole100326.pdf)
+- [Procès-verbal de la réunion du Conseil d’école n° 2 du 10/03/2026](25-26/PV-conseil-ecole-2.pdf)
+- [Procès-verbal de la réunion du Conseil d’école n° 1 du 04/11/2025](25-26/PV-conseil-ecole-1.pdf)
 - [Planning bibliothèque 2025-2026](25-26/planning-bibliotheque-2025-2026.pdf)
 - [Profession de foi 2025-2026](25-26/Profession-de-foi-2025-2026.pdf)
 - [Liste des parents élus](25-26/liste-2025.pdf)
