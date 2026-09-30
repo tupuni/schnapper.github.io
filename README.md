@@ -6,7 +6,7 @@ Ce site contient des documents utiles pour les représentants des parents d'él�
 
 
 ## 2026-2027
-A bientôt pour la rentrée de Septembre!
+- [Points pour l'ODJ du 1er conseil d'école](https://docs.numerique.gouv.fr/docs/b19943d9-3c2b-4fe9-a108-a2320b6bc62d/)
 
 
 ## 2025-2026
